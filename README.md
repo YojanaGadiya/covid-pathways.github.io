@@ -1,4 +1,4 @@
-# covid-pathways.github.io
+# COVID-19 Pathways
 
 This organization could be a place for different groups who are doing biomedical
 relation extraction / knowledge modeling / pathway modeling in the COVID-19 space
